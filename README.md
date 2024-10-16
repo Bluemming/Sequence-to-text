@@ -12,7 +12,7 @@ Language Models using Sequence-to-Text Techniques </h3>
 <table>
     <thead>
         <tr>
-            <th colspan="4"> Team members </th>
+            <th colspan="4"> First Author </th>
         </tr>
     </thead>
     <tbody>
