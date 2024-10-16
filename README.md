@@ -4,7 +4,7 @@
 언어 모델의 분류 성능 비교
 <h3 align='center'> Comparison of Classification Performance of
 
-Language Models using Sequence-to-Text Techniques) </h3>
+Language Models using Sequence-to-Text Techniques </h3>
 
 
 <br>   
