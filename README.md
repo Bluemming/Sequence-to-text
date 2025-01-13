@@ -78,16 +78,15 @@ Language Models using Sequence-to-Text Techniques </h3>
 
 ## Table: Comparison of Language models and Machine learning models
 
-| Language models | Machine learning models |
-|-------------------|-----------------------|
-| a | b|
-| a | b |
-| a | b |
-
-내용
+|  Score\Model  | BERT(scenario 4) | XGBoost(scenario 1) |
+| ------------  | ---------------- | ------------------- |
+|  F1-score  | 0.7363 | 0.6982 |
+|  Precision | 0.6661 | 0.6153 |
+|   Recall   | 0.8246 | 0.8075 |
+|  Accuracy  | 0.7049 | 0.6511 |
 
 ## Significance
-내용
+첫번째 시나리오를 통해 언어 모델이 머신러닝 모델과 비슷한 성능을 보이고, 그 이외의 시나리오에서 더 우수한 분류 성능을 보여주어 언어 모형들의 예측 능력이 뛰어남을 확인하였다.
 
 ## Citation
 ```
@@ -95,9 +94,9 @@ Language Models using Sequence-to-Text Techniques </h3>
   title={Comparison of Classification Performance of Language Models using Sequence-to-Text Techniques},
   author={Kim, M., Kim, Y., Min, J., Seong, H., and Jung, Y.},
   journal={Journal of the Korean Data & Information Science Society.},
-  volume={??},
-  number={???-???},
-  pages={?},
+  volume={35},
+  number={6},
+  pages={815-834 (20 pages)},
   year={2024}
 }
 ```
